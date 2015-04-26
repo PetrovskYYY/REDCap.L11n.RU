@@ -1,0 +1,3 @@
+﻿Regular expressions that could be used to detect total number and translated strings
+^([a-z\_]*\_[0-9]*) = "(.*)".*
+^([a-z\_]*\_[0-9]*) = "(.*[а-яА-Я]{1,}.*)".*

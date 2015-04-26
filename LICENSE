@@ -1,22 +1,12 @@
-The MIT License (MIT)
+REDCap code is available only through Vanderbilt University.
 
-Copyright (c) 2015 Yuriy Petrovskiy
+Possession and use of REDCap code and workflow methodology is strictly 
+limited to institutions and organizations who have finalized an End-User 
+License Agreement with Vanderbilt University.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You may not distribute the code but are encouraged to contact 
+Dr. Paul Harris (615-322-6688) for additional details.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Excerpt from project-redcap@googlegroups.com :
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
+It is allowable under the REDCap license agreement for you to post ONLY the language file on GitHub (either in a public or private repository) if you wish to use GitHub as a means of having several people collaborate on the translation of the file (which is actually a pretty clever way to do it). But no other files from REDCap can be put on GitHub. 
