@@ -1,4 +1,4 @@
-date	translated	total
+date	translated	total	notes
 17.12.2014	627	5867
 18.12.2014	712	5867
 22.12.2014	765	5867
@@ -6,5 +6,5 @@ date	translated	total
 25.12.2014	855	5882
 06.12.2015	902	5882
 14.01.2015	956	5882
-23.01.2015	1008	5882
-
+23.01.2015	1008	5882	First commit to REDCap language center
+26.04.2015	1185	5952	Join with version by Anton Demyanov <rmabs@yandex.ru> with some changes also added some obsolete strings in case someone will need them 
