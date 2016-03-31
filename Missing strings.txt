@@ -1,0 +1,12 @@
+﻿"Click to select a date" date selector /redcap_v6.11.1/DataEntry/index.php?pid=14&page=ddcd_949a&id=1
+"Form Status" /redcap_v6.11.1/DataEntry/index.php?pid=14&page=ddcd_949a&id=1
+"Complete?" /redcap_v6.11.1/DataEntry/index.php?pid=14&page=ddcd_949a&id=1
+"Incomplete" /redcap_v6.11.1/DataEntry/index.php?pid=14&page=ddcd_949a&id=1
+"Unverified" /redcap_v6.11.1/DataEntry/index.php?pid=14&page=ddcd_949a&id=1
+"Complete" /redcap_v6.11.1/DataEntry/index.php?pid=14&page=ddcd_949a&id=1
+"Close" /redcap_v6.11.1/DataEntry/index.php?pid=14&page=ddcd_949a&id=1 Data history dialog popup (button and X in top right corner)
+"Data History for variable "$$" for record "$$" https://redcap.endogyn.com.ua/redcap_v6.11.1/DataEntry/index.php?pid=14&page=ddcd_949a&id=1 Data history dialog header
+All strings in session expiration dialog
+Confidential /redcap_v6.11.1/DataEntry/index.php?pid=15&id=1&event_id=43&page=ddcd (Download PDF)
+Page 1 of 1 /redcap_v6.11.1/DataEntry/index.php?pid=15&id=1&event_id=43&page=ddcd (Download PDF)
+
